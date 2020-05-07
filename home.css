@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.image-home {
+    width: 100%;
+    height: 100vh;
+}
+
+img {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.start {
+    position: absolute;
+    background: blue;
+    padding: 20px;
+    right: 0;
+    left: 0;
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    bottom: 20px;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
